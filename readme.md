@@ -85,4 +85,4 @@ Age vs Gender: Bar chart comparing the sales distribution across different age g
 
 Orders: Channels: Pie chart showing the distribution of orders across different sales channels.
 
-## Insights: [Click Here](insights.md)
+## Insights: [Click Here](https://github.com/Advanced-Boy-Shreyash/Excel-Data-Analysis-Project/blob/master/Insights.md)
