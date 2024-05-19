@@ -20,6 +20,14 @@ This project focuses on analyzing the 2022 sales data of Vrinda Store using Exce
 * Which channel is contributing to maximum sales?
 * Highest selling category? , etc.
 
+## Screenshot of Report
+### Excel Report :
+![Vrinda Data Analysis Report](analysis_screenshot_excel.png)
+
+### Calc Report :
+![Vrinda Data Analysis Report](analysis_screenshot_libreoffice.png)
+
+
 ## The dataset includes:
 - Index
 - Order ID	
